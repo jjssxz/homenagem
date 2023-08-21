@@ -1,0 +1,29 @@
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+}
+
+
+#Neymar {
+    font-family:fantasy;
+    color: #55aee1;
+    text-shadow:  2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+#Principe {
+    font-family: cursive;
+    color: #55aee1;
+}
+
+h2 {
+    color: #55aee1;
+    font-size: 24px; 
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
